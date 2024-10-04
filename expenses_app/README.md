@@ -1,16 +1,8 @@
 # expenses_app
 
-A new Flutter project.
+This is a flutter app that allows you to make an app to track expenses.
+It was made following the udemy course A Complete Guide to the Flutter SDK &amp
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is focused on teaching about how to make bars, overlays, charts, 
+deletable items, making a screen optimized for different orientations,
+ and how to work with themes 
