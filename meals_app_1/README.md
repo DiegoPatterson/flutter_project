@@ -46,6 +46,9 @@ Important Topics:
     Functionality:
         SingleChildScrollView - Allows for scrolling of the screen
         ListView - Allows For scrolling of the screen, but you cant add formatting
+        PopScope - Allwos for saving of memory, allows you to call back previously made things on other screens
+        await - allows us to wait until another action is taken before setting a value(Requires async to be active)
+        initState - allows you to change values and make use of Widget. outside of build class
 
 
 
