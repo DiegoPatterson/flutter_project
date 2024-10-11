@@ -32,9 +32,11 @@ Important Topics:
         SliverGridDelegateWithFixedCrossAxisCount - Sets a layout in a grid pattern 
         ClipBehavior - Allows you to clip an image to fit a design
         Image.Network - Allows a developer to take images from the internet for use
+        ListTile: desplays an item or list of items in a compact menu
 
     Navigation:
         Navigator Push - pushes you forward in a screen stack to a new screen
+        Navigator PushReplacement - pushes into the screen stack but also removes previous
         Navigator Pop - pulls you back in a screen stack
         bottomNaviagationBar - Built in flutter widget that allows easy for use and setup of
             a bottom navigation bar
