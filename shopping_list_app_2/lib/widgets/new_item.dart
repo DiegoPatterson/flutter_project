@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_list_app_1/data/categories.dart';
-import 'package:shopping_list_app_1/models/category.dart';
-import 'package:shopping_list_app_1/models/grocery_item.dart';
+import 'package:shopping_list_app_2/data/categories.dart';
+import 'package:shopping_list_app_2/models/category.dart';
+import 'package:shopping_list_app_2/models/grocery_item.dart';
 
 class NewItem extends StatefulWidget {
   const NewItem({super.key});
