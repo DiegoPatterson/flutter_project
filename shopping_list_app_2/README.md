@@ -7,6 +7,13 @@ udemy course A Complete Guide to the Flutter SDK &amp
 
 This app is focused on teaching us backend using for our apps.
 
+> before Implementing 
+    Ensure you got a firebase set up... dont use mine
+
+    ensure rules are not false
+
+    change firebase url to yours... once again, do not use mine
+
 > Important to Know
     Flutter apps without backend -
         are all stored locally
@@ -43,6 +50,34 @@ This app is focused on teaching us backend using for our apps.
     HTTP - standard protocall that allows communication between front 
         end and back end
 
-> Functionality:
-    
+> Frontend Functionality:
+    import '__' as __ - as tells flutter that whatever was added in the import 
+        should be bundled with whatever you declare after
+
+    http. - allows for use of anything from the http package
+
+    Uri. - creates new https based on what you give it
+
+    json - allows use of things such as encode and decode
+
+    encode - puts data in a way for firebase to store
+
+    decode - returns encoded value to one that dart can use
+
+    CircularProgressIndicator - adds a throbber(also known as a loading symbol) to your screen
+
+    .statusCode - checks what the status of fetching your data is
+
+    .delete - deletes an item from firebase
+
+    try catch - allows code to handle exeptions when running, even unexpected
+
+    FutureBuilder - creates a widget that interacts with things of the [Future] class
+
+    connectionState - checks connection
+
+    ConnectionState.waiting - checks if connection is waiting
+
+> Backend Functionality (firebase):
+    RealTime Database - Stores and syncs data to your project in real time
 
