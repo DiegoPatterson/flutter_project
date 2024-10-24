@@ -5,13 +5,10 @@ tracks your grocery list and what you need to buy as well
 as letting you set new items. It was made following the 
 udemy course A Complete Guide to the Flutter SDK &amp
 
-This app is focused on teaching _________________________.
+This app is focused on Reviewing most of the things we went over in the
+previous sections as well as introducing us to the Form field.
 
-Vocabulary:
-
-Design:
-
-Functionality:
+> Functionality:
     Form - Allows for use of anything in the form field
     TextFormField: Creates a text field usable inside of the Form class, a 
         textField that give access to extended features
